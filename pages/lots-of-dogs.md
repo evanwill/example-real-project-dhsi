@@ -1,5 +1,5 @@
 ---
-title: Dogs
+title: Lots of Dogs
 layout: about
 permalink: /lots-of-dogs.html
 about-featured-image: nwpostcards1769
